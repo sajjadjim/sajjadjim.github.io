@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap');
 
 :root{
-    --springGreen:#00ce79;
+    --springGreen:#3ba17a;
 }
 
 *{
@@ -38,7 +38,7 @@ html::-webkit-scrollbar-thumb{
 }
 
 body{
-    background:#111;
+    background:#111111;
     overflow-x: hidden;
     padding-left: 35rem;
 }
