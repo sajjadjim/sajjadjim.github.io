@@ -1,15 +1,17 @@
 /* contact section styling */
 .contact{
     color:#fff;
-    background: #111;
+    background: #264653;
     font-family: 'Poppins', sans-serif;
 }
 .contact .title::before{
     background: #fff;
 }
 .contact .title::after{
-    background: #111;
+    background: #2a9d8f;
     content: "let's connect";
+    color: white;
+    border-radius: 10px;
 }
 .contact .contact-content{
     display: flex;
@@ -41,7 +43,7 @@
 }
 .contact .contact-content .row i{
     font-size: 25px;
-    color: rebeccapurple;
+    color: #2a9d8f;
 }
 .contact .contact-content .info .head{
     font-weight: 500;

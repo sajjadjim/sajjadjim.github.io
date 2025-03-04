@@ -9,7 +9,7 @@
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: rebeccapurple;
+    background: #2a9d8f;
 }
 .navbar .max-width{
     display: flex;
@@ -22,7 +22,7 @@
     font-weight: 600;
 }
 .navbar .logo a span{
-    color: rebeccapurple;
+    color: #2a9d8f;
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
@@ -41,7 +41,7 @@
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: rebeccapurple;
+    color: #264653;
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;

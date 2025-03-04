@@ -1,7 +1,7 @@
 /* experience section styling */
 .experience{
     color:#eee;
-    background: #111;
+    background: #264653;
     font-family: 'Poppins', sans-serif;
     counter-reset: journal-counter conference-counter;
 }
@@ -9,8 +9,10 @@
     background: #eee;
 }
 .experience .title::after{
-    background: #111;
+    background: #2a9d8f;
     content: "where do i work";
+    border-radius: 10px;
+    color: white;   
 }
 .experience .experience-content{
     display: flex;

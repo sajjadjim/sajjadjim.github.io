@@ -1,7 +1,7 @@
 /* publication section styling */
 .publication{
     color:#eee;
-    background: #111;
+    background: #264653;
     font-family: 'Poppins', sans-serif;
     counter-reset: journal-counter conference-counter;
 }
@@ -9,8 +9,10 @@
     background: #eee;
 }
 .publication .title::after{
-    background: #111;
+    background: #2a9d8f;
+    color: white;
     content: "what i research";
+    border-radius: 10px;
 }
 .publication .publication-content{
     display: flex;
@@ -54,7 +56,7 @@
 }
 .publication .publication-content .row i{
     font-size: 25px;
-    color: rebeccapurple;
+    color: #264653;
 }
 .publication .publication-content .row .number::before {
     content: counter(journal-counter) ". ";

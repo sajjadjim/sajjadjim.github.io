@@ -1,15 +1,17 @@
 /* expertise section styling */
 .expertise{
     color:#fff;
-    background: #111;
+    background: #264653;
     font-family: 'Poppins', sans-serif;
 }
 .expertise .title::before{
     background: #fff;
 }
 .expertise .title::after{
-    background: #111;
+    background: #2a9d8f;
     content: "what can i do";
+    color: white;
+    border-radius: 10px;
 }
 .expertise .expertise-content{
     display: flex;
@@ -19,7 +21,7 @@
 }
 .expertise .expertise-content .card{
     width: calc(33% - 20px);
-    background: #222;
+    background: #1e2f36;
     text-align: center;
     border-radius: 6px;
     padding: 50px 25px;
@@ -27,7 +29,7 @@
     transition: all 0.3s ease;
 }
 .expertise .expertise-content .card:hover{
-    background: rebeccapurple;
+    background: #2a9d8f;
 }
 .expertise .expertise-content .card .box{
     transition: all 0.3s ease;
@@ -37,7 +39,7 @@
 }
 .expertise .expertise-content .card i{
     font-size: 50px;
-    color: rebeccapurple;
+    color: #2a9d8f;
     transition: color 0.3s ease;
 }
 .expertise .expertise-content .card:hover i{

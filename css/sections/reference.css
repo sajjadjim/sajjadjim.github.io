@@ -15,7 +15,7 @@
     transition: all 0.3s ease;
 }
 .references .carousel .card:hover{
-    background: #75D41D;
+    background: #e9c46a;
 }
 .references .carousel .card .box{
     display: flex;
@@ -37,7 +37,7 @@
     width: 150px;
     object-fit: cover;
     border-radius: 50%;
-    border: 5px solid rebeccapurple;
+    border: 5px solid #264653;
     transition: all 0.3s ease;
 }
 .references .carousel .card:hover img{

@@ -28,15 +28,15 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings: ["Computer Engineer", "Programmer", "Researcher"],
-        typeSpeed: 100,
-        backSpeed: 60,
+        strings: ["Computer Engineer", "Programmer", "Web Developer"],
+        typeSpeed: 150,
+        backSpeed: 70,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Computer Engineer", "Programmer", "Researcher"],
-        typeSpeed: 100,
+        strings: ["Computer Engineer", "Programmer", "Web Developer"],
+        typeSpeed: 150,
         backSpeed: 60,
         loop: true
     });

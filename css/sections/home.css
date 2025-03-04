@@ -43,24 +43,27 @@
 }
 
 .home .home-content .text-3 span {
-    color: rebeccapurple;
+    /* color: rebeccapurple; */
+    color: #2a9d8f;
     font-weight: 500;
 }
 
 .home .home-content a {
     display: inline-block;
-    background: rebeccapurple;
+    /* background: rebeccapurple; */
+    color: #2a9d8f;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid rebeccapurple;
+    border: 2px solid #264653;
     transition: all 0.3s ease;
 }
 
 .home .home-content a:hover {
-    color: rebeccapurple;
+    /* color: rebeccapurple; */
+    color: #2a9d8f;
     background: none;
 }

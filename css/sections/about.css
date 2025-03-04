@@ -29,24 +29,26 @@
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: rebeccapurple;
+    /* color: rebeccapurple; */
+    color: #2a9d8f;
 }
 .about .about-content .right p{
     text-align: justify;
 }
 .about .about-content .right a{
     display: inline-block;
-    background: rebeccapurple;
+    background: #2a9d8f;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid rebeccapurple;
+    border: 2px solid #2a9d8f;
     transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
-    color: rebeccapurple;
+    /* color: rebeccapurple; */
+    color: #2a9d8f;
     background: none;
 }

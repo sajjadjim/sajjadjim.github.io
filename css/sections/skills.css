@@ -3,7 +3,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .skills .title::after{
-    content: "what i know";
+    content: "what language i know";
 }
 .skills .skills-content{
     display: flex;
@@ -71,21 +71,16 @@
 .skills .skills-content .right .react::before{
     width: 70%;
 }
-.skills .skills-content .right .html::before{
+.skills .skills-content .right .javascript::before{
     width: 55%;
 }
 .skills .skills-content .right .python::before{
     width: 70%;
 }
-.skills .skills-content .right .addobe::before{
-    width: 90%;
+.skills .skills-content .right .tailwind::before{
+    width: 70%;
 }
-.skills .skills-content .right .office::before{
-    width: 68%;
-}
-.skills .skills-content .right .coomunicate::before{
-    width: 75%;
-}
+
 
 
 
